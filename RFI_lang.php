@@ -1,1 +1,5 @@
-<?php  $file = file_get_content("index.php"); echo($file);?>
+<?php
+  echo("testtttt");
+  //$file = file_get_content("index.php"); 
+  //echo($file);
+?>
